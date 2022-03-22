@@ -9,6 +9,9 @@ The goal of this project is to gain insight into the NYC Citibike data for 2021.
 - [NYC Citibike Data](https://ride.citibikenyc.com/system-data)
 - Tableau
 
+## [Tableau analysis](https://public.tableau.com/app/profile/ryan.m.7482/viz/2021-Citibike-Analysis/Dashboard1)
+Please visit above link to view the tableau project!
+
 ## Preparing my data:
  
 **Collecting the data**
@@ -37,6 +40,3 @@ ELSE STR(DATEPART('hour',[Started At]))+" AM"
 End
 ```
 This produces an unsorted result (1AM, 1PM, 2AM...), so I had to go in and manually adjust the sorting so that it displayed data correctly.
-
-## [Tableau analysis](https://public.tableau.com/app/profile/ryan.m.7482/viz/2021-Citibike-Analysis/Dashboard1)
-Please visit above link to view the tableau project!
