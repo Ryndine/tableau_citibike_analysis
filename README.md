@@ -9,8 +9,10 @@ The goal of this project is to gain insight into the NYC Citibike data for 2021.
 - [NYC Citibike Data](https://ride.citibikenyc.com/system-data)
 - Tableau
 
-## [Tableau analysis](https://public.tableau.com/app/profile/ryan.m.7482/viz/2021-Citibike-Analysis/Dashboard1)
-Please visit above link to view the tableau project!
+## Tableau analysis:
+[Dashboard Analysis](https://public.tableau.com/app/profile/ryan.m.7482/viz/2021-Citibike-Analysis/Dashboard1)  
+[Story Analysis](https://public.tableau.com/app/profile/ryan.m.7482/viz/2021-Citibike-Analysis/Story1)  
+Please visit above links to view the tableau project!
 
 ## Preparing my data:
  
