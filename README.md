@@ -1,7 +1,7 @@
 # NYC Citibike Trip Analysis with Tableau
 
 ## Objective: 
-THe goal of this project is to gain insight into the NYC Citibike data for 2021.
+The goal of this project is to gain insight into the NYC Citibike data for 2021.
 
 ## Tools & databases used:
 - Jupyter
@@ -24,6 +24,7 @@ After, I noticed they removed the "tripduration" column. So, to start I took "en
 raw_nycitibike_df['duration_seconds'] = (raw_nycitibike_df.ended_at - raw_nycitibike_df.started_at) / pd.Timedelta(seconds=1)
 raw_nycitibike_df['duration_seconds'] = pd.to_datetime(raw_nycitibike_df['duration_seconds'], unit='s')
 ```
+Final step was to trim the dataset. The original file contains 26,500,000 rows of data, but Tableau Public only allows 15,000,000. So I trimmed off what I needed to in order to load it into Tableau.
 
 **Calculated field with tableau:**
 
