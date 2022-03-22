@@ -38,3 +38,4 @@ End
 This produces an unsorted result (1AM, 1PM, 2AM...), so I had to go in and manually adjust the sorting so that it displayed data correctly.
 
 ## [Tableau analysis](https://public.tableau.com/app/profile/ryan.m.7482/viz/2021-Citibike-Analysis/Dashboard1)
+Please visit above link to view the tableau project!
